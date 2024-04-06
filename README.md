@@ -1,13 +1,14 @@
-git checkout main\n
-git pull/ git pull origin main/ go to each branch and "git pull"\n
-git checkout <name>\n
-add all files.. ie git add .\n
-git commit -m "<message>"\n
-git push origin <name>\n
-git merge main\n
-\n
-\n
-\n
-if want to merge to main-\n
+git checkout main<br>
+git pull/ git pull origin main/ go to each branch and "git pull"<br>
+git checkout <name><br>
+add all files.. ie git add .<br>
+git commit -m "<message>"<br>
+git push origin <name><br>
+git merge main<br>
+<br>
+<br>
+<br>
+
+if want to merge to main:<br>
 git push origin main\n
 
